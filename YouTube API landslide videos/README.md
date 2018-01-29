@@ -38,5 +38,5 @@ python topTen.py
 ```
 ### Result
 You will get output in 11 lines:
-- first line is formatted as follows (without <> symbols): <startDate>\t<endDate>\n
-- all other lines are formatted as follows (without <> symbols): <video_id>\t<title>\t<viewCount>\n
+- first line is formatted as follows: startDate endDate
+- all other lines are formatted as follows: video_id title viewCount
